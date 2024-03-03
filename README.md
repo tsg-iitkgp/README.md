@@ -127,7 +127,7 @@ Use this space to show useful examples of how this project can be used. Addition
   <img align="center" alt="TSG's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
 </a>
 <a href="https://tsgblog.iitkgp.ac.in">
-  <img align="center" alt="TSG's Blog" width="22px" src="" />
+  <img align="center" alt="TSG's Blog" width="22px" src="https://github.com/tsg-iitkgp/README.md/assets/86282911/33d6d84f-34ce-4a89-bd89-585dbf39e304" />
 </a>
 </p>
 
